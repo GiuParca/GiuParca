@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Giulia</h1>
 <h3 align="center">A passionate frontend developer from Brazil, living in Lisbon.</h3>
 
-- 🔭 I’m currently working on **personal projects to boost my portfolio**
-
-- 🌱 I’m currently learning **React and Vue**
-
 - 🎓 Master of Storytelling: Graduated in journalism from Faculdade Cásper Líbero in São Paulo, with a flair for cultural trendspotting from the University of the Arts London
 
 - 💻 Tech Trekker: I said goodbye to my career in communications to dive headfirst into a full-stack development bootcamp and immerse myself in the world of front-end development
 
 - 🌍 Born and raised in São Paulo, I swapped my city for the fog of London, then the gastronomy and culture of Italy. Now I'm savoring the landscapes and history of sunny Lisbon, where I currently live
+
+- 🔭 I’m currently working on **personal projects to boost my portfolio**
+
+- 🌱 I’m currently learning **React and Vue**
 
 - 💬 Ask me about **HTML and CSS**
 
