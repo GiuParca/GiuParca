@@ -5,15 +5,19 @@
 
 - 🌱 I’m currently learning **React and Vue**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 🎓 Master of Storytelling: Graduated in journalism from Faculdade Cásper Líbero in São Paulo, with a flair for cultural trendspotting from the University of the Arts London
+
+- 💻 Tech Trekker: I said goodbye to my career in communications to dive headfirst into a full-stack development bootcamp and immerse myself in the world of front-end development
+
+- 🌍 Born and raised in São Paulo, I swapped my city for the fog of London, then the gastronomy and culture of Italy. Now I'm savoring the landscapes and history of sunny Lisbon, where I currently live
 
 - 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **giuliaparca@gmail.com**
 
-- 📄 Know about my experiences [I left my 15-year career as a journalist to devote myself to programming 🤘](I left my 15-year career as a journalist to devote myself to programming 🤘)
+- 📄 Know about my experiences I left my 15-year career as a journalist to devote myself to programming 🤘
 
-- 🎤 Fun fact **I love karaoke, but I sing really badly**
+- 🎤 Fun fact **I love karaoke, but I sing badly 🤫**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
