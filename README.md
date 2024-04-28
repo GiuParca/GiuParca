@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giulia</h1>
-<h3 align="center">A passionate frontend developer from Brazil, living in Lisbon.</h3>
+<h3 align="center">A passionate FullStack Developer from Brazil, living in Lisbon.</h3>
 
 - 🎓 Master of Storytelling: Graduated in journalism from Faculdade Cásper Líbero in São Paulo, with a flair for cultural trendspotting from the University of the Arts London
 
