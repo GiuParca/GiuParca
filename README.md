@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giulia</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=F7F7F7&center=true&random=false&width=500&lines=A+passionate+FullStack+Developer;from+Brazil%2C+living+in+Lisbon" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=F7F7F7&center=true&random=false&width=500&lines=A+passionate+FullStack+Developer" alt="Typing SVG" /></a></p>
 
 <h3>Things I code with...</h3>
 <p>
