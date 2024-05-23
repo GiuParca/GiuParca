@@ -24,7 +24,7 @@
 
 <h3>A little more about me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Raising%20Hand.png" alt="Woman Raising Hand" width="30" height="30" /></h3> 
 
-- 🎓 Master of Storytelling: Graduated in journalism from Faculdade Cásper Líbero in São Paulo, with a flair for cultural trendspotting from the University of the Arts London
+- 🎓 Master of Storytelling: Graduated in journalism, with a flair for cultural trendspotting from the University of the Arts London
 
 - 💻 Tech Trekker: I said goodbye to my career in communications to dive headfirst into a full-stack development bootcamp and immerse myself in the world of front-end development
 
