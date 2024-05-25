@@ -28,7 +28,7 @@
 
 - 💻 Tech Trekker: I said goodbye to my career in communications to dive headfirst into a full-stack development bootcamp and immerse myself in the world of front-end development
 
-- 🌍 Born and raised in São Paulo, I swapped my city for the fog of London, then the gastronomy and culture of Italy. Now I'm savoring the landscapes and history of sunny Lisbon, where I currently live
+- 🌍 Born and raised in Brazil, I swapped my city for the fog of London, then the gastronomy and culture of Italy. Now I'm savoring the landscapes and history of sunny Lisbon, where I currently live
 
 - 🔭 I’m currently working on **personal projects to boost my portfolio**
 
