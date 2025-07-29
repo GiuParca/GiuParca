@@ -31,8 +31,6 @@
 
 - 🔭 I’m currently working on **personal projects to boost my portfolio**
 
-- 🌱 I’m currently learning **TypeScript and React**
-
 - 📫 How to reach me **giuliaparca@gmail.com**
 
 <br>
